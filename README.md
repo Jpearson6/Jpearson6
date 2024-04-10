@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React, C++ Game Development**
 
-- 👨‍💻 All of my projects are available at [github.com/jpearson6](github.com/jpearson6)
-
 - 💬 Ask me about **Competitive fps E-sports**
 
 - 📫 How to reach me **Jpearson.dev@gmail.com**
